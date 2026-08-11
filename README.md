@@ -9,6 +9,8 @@ deckbuilder for retro Yu-Gi-Oh! formats (Goat, Edison, Redu).
   canonical passcode. 5,149 images covering every card in the three format
   pools. Alt-artwork passcodes are resolved to canonical ones by the app
   before lookup, so only canonical passcodes appear here.
+- `cards/full/<passcode>.jpg` — full-size card images (813×1185), the same
+  5,149 passcodes.
 
 Images were mirrored once from [Format Library](https://formatlibrary.com)
 (a community project) and are served from
